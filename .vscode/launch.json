@@ -1,0 +1,210 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "test6.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "test5.App",
+            "projectName": "test5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "test5.miki.App",
+            "projectName": "test5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "test4.App",
+            "projectName": "mtest4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "test3.App",
+            "projectName": "test3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "miki.test.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "miki.nzd.Nzd.App",
+            "projectName": "miki-test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestPayIncreaseInterface",
+            "request": "launch",
+            "mainClass": "TestPayIncreaseInterface",
+            "projectName": "Lesson7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestPayIncrease",
+            "request": "launch",
+            "mainClass": "TestPayIncrease",
+            "projectName": "Lesson7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestPayIncreasePoly",
+            "request": "launch",
+            "mainClass": "TestPayIncreasePoly",
+            "projectName": "Lesson6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Girlfriends2",
+            "request": "launch",
+            "mainClass": "Girlfriends2",
+            "projectName": "Lesson5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Girlfriends1",
+            "request": "launch",
+            "mainClass": "Girlfriends1",
+            "projectName": "Lesson5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestTax",
+            "request": "launch",
+            "mainClass": "TestTax",
+            "projectName": "Lesson4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestTax",
+            "request": "launch",
+            "mainClass": "TestTax",
+            "projectName": "Lesson3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestCar1",
+            "request": "launch",
+            "mainClass": "TestCar1",
+            "projectName": "Lesson3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "com.apress.demo.Application",
+            "projectName": "hello-springboot"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo2Application",
+            "request": "launch",
+            "mainClass": "com.example.demo2.Demo2Application"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.wiley.beginningspring.ch2.Main"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootMongodbDemoApplication<springboot-mongodb-demo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.apress.demo.SpringbootMongodbDemoApplication",
+            "projectName": "springboot-mongodb-demo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TacoCloudApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "tacos.TacoCloudApplication",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TacoCloudApplication2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "tacos.TacoCloudApplication2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TacoCloudApplication<taco-cloud>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "tacos.TacoCloudApplication",
+            "projectName": "taco-cloud",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<springboot-example-ch5>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mastering.spring.springboot.Application",
+            "projectName": "springboot-example-ch5",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<springboot-example-ch6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mastering.spring.springboot.Application",
+            "projectName": "springboot-example-ch6",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DemotestApplication<demotest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.demotest.DemotestApplication",
+            "projectName": "demotest",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Demo2Application<demo2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.demo2.Demo2Application",
+            "projectName": "demo2",
+            "args": ""
+        }
+    ]
+}
